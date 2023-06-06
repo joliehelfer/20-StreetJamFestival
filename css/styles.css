@@ -1,6 +1,5 @@
 html {
-  background: #E9DBC4;
-  background: linear-gradient(0deg, #1E1C1C 6%, #1E1C1C 31%, #E9DBC4 85%);
+  background: #1E1C1C;
   scroll-behavior: smooth;
 }
 
@@ -9,33 +8,66 @@ body {
   margin: auto;
   font-family: 'Bungee', cursive;
   font-family: 'Ubuntu', sans-serif;
+  padding:15px;
+}
+
+header {
+background-color: #E9DBC4;
+}
+
+hr {
+  width: 100%;
+  color: #E9DBC4;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  border: 10px;
+  background-color: #141414;
+  padding: 10px;
+  text-decoration: none;
+  color: #E9DBC4;
 }
 
 img {
-  display: block;
   max-width: 100%;
+  margin: 20px auto;
+  border: 1px solid;
+  box-sizing: border-box;
+  display: block;
 }
 
 h1 {
   font-family: 'Bungee', cursive;
+  padding: 10px 10px 10px 20px;
+  font-size: 40px;
+  margin-bottom: 0px;
 }
 
 h2 {
   font-family: 'Bungee', cursive;
+  margin-bottom: 0px;
 }
 
  a {
   font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+  color: #E9DBC4;
 }
 
 .container-dark {
   background-color: #141414;
   color: #E9DBC4;
+  margin-bottom: 0px;
+  padding: 8px;
 }
 
 .container-light {
   background-color: #E9DBC4;
   color: #141414;
+  margin-bottom: 0px;
+  padding: 8px;
 }
 
 footer {
