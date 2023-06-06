@@ -73,4 +73,7 @@ h2 {
 footer {
   background: #141414;
   color: #E9DBC4;
+  margin-bottom: 0px;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
 }
