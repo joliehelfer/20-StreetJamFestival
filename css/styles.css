@@ -1,10 +1,25 @@
+html {
+  background: #E9DBC4;
+  background: linear-gradient(0deg, #1E1C1C 6%, #1E1C1C 31%, #E9DBC4 85%);
+  scroll-behavior: smooth;
+}
+
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  font-family: 'Bungee', cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+footer {
+  background: #141414;
+}
+
+.container-dark{
+  color: #141414;
 }
