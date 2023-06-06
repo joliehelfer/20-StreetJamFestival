@@ -16,10 +16,29 @@ img {
   max-width: 100%;
 }
 
-footer {
-  background: #141414;
+h1 {
+  font-family: 'Bungee', cursive;
 }
 
-.container-dark{
+h2 {
+  font-family: 'Bungee', cursive;
+}
+
+ a {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container-dark {
+  background-color: #141414;
+  color: #E9DBC4;
+}
+
+.container-light {
+  background-color: #E9DBC4;
   color: #141414;
+}
+
+footer {
+  background: #141414;
+  color: #E9DBC4;
 }
