@@ -13,9 +13,14 @@ header {
 background-color: #E9DBC4;
 }
 
+.program {
+  margin-top: 0;
+}
+
 p {
 font-weight: 400;
 font-family: 'Ubuntu', sans-serif;
+margin-bottom: 0;
 }
 
 .navigation {
