@@ -6,11 +6,11 @@ html {
 body {
   max-width: 375px;
   margin: auto;
-  padding:15px;
+  padding: 15px;
 }
 
 header {
-background-color: #E9DBC4;
+  background-color: #E9DBC4;
 }
 
 .program {
@@ -18,9 +18,9 @@ background-color: #E9DBC4;
 }
 
 p {
-font-weight: 400;
-font-family: 'Ubuntu', sans-serif;
-margin-bottom: 0;
+  font-weight: 400;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 0;
 }
 
 .navigation {
@@ -58,7 +58,7 @@ hr {
   color: #E9DBC4;
 }
 
- a {
+a {
   font-family: 'Ubuntu', sans-serif;
   text-decoration: none;
   color: #E9DBC4;
@@ -83,10 +83,10 @@ hr {
 }
 
 .food-truck {
-width: 90px;
-height: auto;
-border: none;
-margin: 0px 120px;
+  width: 90px;
+  height: auto;
+  border: none;
+  margin: 0px 120px;
 }
 
 footer {
